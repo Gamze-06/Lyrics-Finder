@@ -1,6 +1,6 @@
 # 🎵 Lyrics Finder
 
-Lyrics Finder, React ve Vite kullanılarak geliştirilmiş, istediğiniz şarkının sözlerini kolayca aratıp görüntülemenizi sağlayan modern bir web uygulamasıdır.  
+Çok severek yaptığım bir Proje oldu Lyrics Finder, React ve Vite kullanılarak geliştirilmiş, istediğiniz şarkının sözlerini kolayca aratıp görüntülemenizi sağlayan modern bir web uygulamasıdır.  
 Sanatçı ismi veya şarkı adı yazarak listeleme yapabilir ve tek tıklamayla şarkı sözlerine ulaşabilirsiniz.
 
 ---
@@ -22,13 +22,6 @@ Sanatçı ismi veya şarkı adı yazarak listeleme yapabilir ve tek tıklamayla 
 - **JavaScript (ES6+)**  
 - **CSS3 (Responsive tasarım)**  
 - **Lyrics API**  
-
----
-
-
-## 🔗 Canlı Demo
-
-👉 [Lyrics Finder'ı Açmak için Tıklayın](https://your-netlify-link.netlify.app)
 
 ---
 
