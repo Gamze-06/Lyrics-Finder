@@ -1,12 +1,34 @@
-# React + Vite
+# 🎵 Lyrics Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lyrics Finder, React ve Vite kullanılarak geliştirilmiş, istediğiniz şarkının sözlerini kolayca aratıp görüntülemenizi sağlayan modern bir web uygulamasıdır.  
+Sanatçı ismi veya şarkı adı yazarak listeleme yapabilir ve tek tıklamayla şarkı sözlerine ulaşabilirsiniz.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Özellikler
 
-## Expanding the ESLint configuration
+- 🔍 Sanatçı veya şarkı adına göre hızlı arama  
+- 📜 Şarkı sözlerini gerçek zamanlı görüntüleme  
+- ⚡ Vite sayesinde ultra hızlı geliştirme ve build süreci  
+- 🎨 React ile modern ve kullanıcı dostu arayüz  
+- 🌐 API entegrasyonu (lyrics API) ile canlı veri çekme  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- **React 18**  
+- **Vite** (Frontend geliştirme aracı)  
+- **JavaScript (ES6+)**  
+- **CSS3 (Responsive tasarım)**  
+- **Lyrics API**  
+
+---
+
+
+## 🔗 Canlı Demo
+
+👉 [Lyrics Finder'ı Açmak için Tıklayın](https://your-netlify-link.netlify.app)
+
+---
+
